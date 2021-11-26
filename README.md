@@ -3,12 +3,14 @@
 
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/62007900/143626609-4b43bdf9-8354-4fe0-b51b-220d75746e40.JPG)
 
-#Installation
+# Installation
 Öncelikle projeyi clonelayın. [Reponun linki için tıklayabilirsiniz.](https://github.com/smyy96/kodluyoruzilkrepo)
 
-#Usage
+# Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
-'''cd kodluyoruzilkrepo
-code .'''
+```
+cd kodluyoruzilkrepo
+code .
+```
